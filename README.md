@@ -12,7 +12,7 @@ Tenho 19 anos, sou de João Pessoa/PB e sou apaixonado por programação e jogos
 ## Estudando:
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  width="50" height="50" title="Flutter"/></code>  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" title="Java Script"/></code>
 
-📚 Atualmente, estou cursando o terceiro período de Ciências da Computação e planejo iniciar um curso técnico em Redes de Computadores em breve.       
+📚 Atualmente, estou cursando o quarto período de Ciências da Computação e planejo iniciar um curso técnico em Redes de Computadores em breve.       
 
 
 ## Contatos:
