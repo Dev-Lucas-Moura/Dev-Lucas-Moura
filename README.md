@@ -53,6 +53,6 @@ Sistema de gestão para academias de Jiu-Jítsu, pensado a partir de uma necessi
 
 ### 📫 Conecte-se
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e6b76?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e6b76?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dev-lucas-moura)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucmoura.dev/)
 [![Email](https://img.shields.io/badge/Email-2f5fdc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmouradevbr@gmail.com)
